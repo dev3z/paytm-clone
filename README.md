@@ -2,7 +2,8 @@
 ## Build a basic version of PayTM
 Backend for a pay app
 
- Backend | Node.js, Express.js, MongoDB, Mongoose, JWT, Zod, React | Github
+ Backend | Node.js, Express.js, MongoDB, Mongoose, JWT, Zod, React
+ 
 • Developed a payment application backend using Express.js and MongoDB, implementing user authentication and
 account management.
 
